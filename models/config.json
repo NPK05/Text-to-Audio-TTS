@@ -1,0 +1,9 @@
+{
+  "mel_dir": "../data_hifigan_validated/mel_spectrograms",
+  "wav_dir": "../data_hifigan_validated/wavs",
+  "batch_size": 8,
+  "epochs": 100,
+  "lr": 0.0002,
+  "fm_lambda": 10.0,
+  "checkpoint_dir": "checkpoints/hifigan"
+}
