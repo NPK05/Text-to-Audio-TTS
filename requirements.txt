@@ -1,0 +1,13 @@
+torch>=1.10
+torchaudio
+numpy
+matplotlib
+scipy
+librosa
+tqdm
+scikit-learn
+unidecode
+inflect
+numba
+soundfile
+jupyter
