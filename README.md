@@ -154,10 +154,5 @@ Special thanks to:
 
 ---
 
-## 📄 License
-
-This project is available under the **MIT License** for educational and non-commercial use.
-
----
 
 ### 🚀 Enjoy building next-gen audio AI from scratch!
